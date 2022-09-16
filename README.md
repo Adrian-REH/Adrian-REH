@@ -1,4 +1,4 @@
-Hola, mi nombre el Brais Moure 👋
+Hola, me llamo Adrian Herrera 👋
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=101010)]()
