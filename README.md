@@ -16,7 +16,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black&labelColor=47A248)]()
 [![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=flat-square&logo=mysql&logoColor=white&labelColor=279FDF)]()
 </br>
-## Proyectos:
+## Proyectos: _recientes_
 ### Appointment
 
  - **Para profesionales**:
@@ -41,16 +41,18 @@
   
 
 
- [![Kotlin](https://img.shields.io/badge/Kotlin-AE57FA?style=flat-square&logo=kotlin&logoColor=white&labelColor=AE57FA)]()
- [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black&labelColor=3DDC84)]()
+ [![Kotlin](https://img.shields.io/badge/Kotlin-C7C7C7?style=flat-square&logo=kotlin&logoColor=black&labelColor=C7C7C7)]()
+ [![Android_Studio](https://img.shields.io/badge/Android_Studio-C7C7C7?style=flat-square&logo=android-studio&logoColor=black&labelColor=C7C7C7)]()
  </br>
+ 
   **Descarga**: 
+  </br>
   
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141)](https://play.google.com/store/apps/details?id=app.ibiocd.appointmentpatient) 
+[![Google Play](https://img.shields.io/badge/Google_Play-C7C7C7?style=for-the-badge&logo=googleplay&logoColor=black&labelColor=C7C7C7)](https://play.google.com/store/apps/details?id=app.ibiocd.appointmentpatient) 
 
 </br>
 
 ## Contacto: 
  Si estas interesando en incluirte en uno de los proyectos contactame
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)]()
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EA4335)]()
