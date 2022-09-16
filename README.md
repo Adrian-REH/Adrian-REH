@@ -52,6 +52,62 @@
 
 </br>
 
+### Otros
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://github.com/Adrian-REH/DashSupplier">
+  		<img src="">
+	</a>
+	</td>
+    <td>
+	<a href="https://github.com/Adrian-REH/DashClient">
+  		<img src="">
+	</a>
+	</td>
+    <td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+	<td>
+	<a href="">
+  		<img src="h">
+	</a>
+	</td>
+   <td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+  </tr>
+    <tr>
+    <td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+	<td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+   <td>
+	<a href="">
+  		<img src="">
+	</a>
+	</td>
+  </tr>
+</table>
+</table>
+
 ## Contacto: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EA4335)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ibiocd@gmail.com)
