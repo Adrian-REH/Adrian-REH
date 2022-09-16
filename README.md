@@ -13,7 +13,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white&labelColor=FFCA28)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=339933)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248)]()
-[![MySQL](https://img.shields.io/badge/MySQL-DFB627?style=flat-square&logo=mysql&logoColor=white&labelColor=DFB627)]()
+[![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=flat-square&logo=mysql&logoColor=white&labelColor=279FDF)]()
 </br>
 
 
