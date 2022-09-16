@@ -23,8 +23,7 @@
  Es una **_APP_** para crear citas medicas para distintas especialidades, asi como todas las especialidades son diferentes appoiment las complementa creando funciones para cada una de ellas
 </br>
  <p align="center"> <img height="300" src="https://user-images.githubusercontent.com/64231248/190726526-88acbdf8-fef1-403e-936c-b170ee7002a5.png" link="https://play.google.com/store/apps/details?id=app.ibiocd.odontologia"> </p>
-
-  
+ 
  [![Kotlin](https://img.shields.io/badge/Kotlin-414141?style=flat-square&logo=kotlin&logoColor=white&labelColor=414141)]()
  [![Android_Studio](https://img.shields.io/badge/Android_Studio-414141?style=flat-square&logo=android-studio&logoColor=white&labelColor=414141)]()
  </br>
@@ -53,7 +52,8 @@
 </br>
 
 ### Otros
-<table style="width:100%">
+
+<table align="center" style="width:100%">
   <tr>
     <td>
 	<a href="https://github.com/Adrian-REH/DashSupplier">
