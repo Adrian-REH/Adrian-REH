@@ -1,5 +1,7 @@
 # Hola, me llamo Adrian Herrera 👋
 ### Soy estudiante de Ingenieria electrónica y Freelance junior
+
+ Usualmente creo codigos por Hobby o por trabajos y los publico aqui, siempre y cuando no sean privados.
 ## Tecnologías:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,4 +17,40 @@
 [![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=flat-square&logo=mysql&logoColor=white&labelColor=279FDF)]()
 </br>
 ## Proyectos:
+### Appointment
 
+ - **Para profesionales**:
+ Es una **_APP_** para crear citas medicas para distintas especialidades, asi como todas las especialidades son diferentes appoiment las complementa creando funciones para cada una de ellas
+</br>
+ <p align="center"> <img height="300" src="https://user-images.githubusercontent.com/64231248/190726526-88acbdf8-fef1-403e-936c-b170ee7002a5.png" link="https://play.google.com/store/apps/details?id=app.ibiocd.odontologia"> </p>
+
+  
+ [![Kotlin](https://img.shields.io/badge/Kotlin-414141?style=flat-square&logo=kotlin&logoColor=white&labelColor=414141)]()
+ [![Android_Studio](https://img.shields.io/badge/Android_Studio-414141?style=flat-square&logo=android-studio&logoColor=white&labelColor=414141)]()
+ </br>
+  </br>
+  **Descarga**: 
+  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141)](https://play.google.com/store/apps/details?id=app.ibiocd.odontologia) 
+
+ - **Para pacientes**: Es una **_APP_** para crear citas medicas para distintas especialidades.
+
+ <p align="center"><img height="300" src="https://user-images.githubusercontent.com/64231248/190727012-96f8767a-15b7-4320-b7a3-c90492fd3202.png"> </p>
+ 
+  </br>
+  
+
+
+ [![Kotlin](https://img.shields.io/badge/Kotlin-AE57FA?style=flat-square&logo=kotlin&logoColor=white&labelColor=AE57FA)]()
+ [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black&labelColor=3DDC84)]()
+ </br>
+  **Descarga**: 
+  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141)](https://play.google.com/store/apps/details?id=app.ibiocd.appointmentpatient) 
+
+</br>
+
+## Contacto: 
+ Si estas interesando en incluirte en uno de los proyectos contactame
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)]()
