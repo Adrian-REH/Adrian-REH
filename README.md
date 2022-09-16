@@ -1,5 +1,5 @@
 # Hola, me llamo Adrian Herrera 👋
-### Estudiante de Ingenieria electronica y Freelance junior
+### Soy estudiante de Ingenieria electrónica y Freelance junior
 ## Tecnologías:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
