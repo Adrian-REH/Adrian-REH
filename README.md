@@ -55,4 +55,4 @@
 ## Contacto: 
  Si estas interesando en incluirte en uno de los proyectos contactame
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EA4335)]()
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EA4335)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ibiocd@gmail.com)
