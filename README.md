@@ -8,7 +8,7 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black&labelColor=3DDC84)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E)]()
-[![php](https://img.shields.io/badge/php-F7DF1E?style=flat-square&logo=php-F7DF1E&logoColor=black&labelColor=F7DF1E)]()
+[![php](https://img.shields.io/badge/php-F7DF1E?style=flat-square&logo=php&logoColor=black&labelColor=F7DF1E)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=FFCA28)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=black&labelColor=339933)]()
