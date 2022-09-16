@@ -84,7 +84,7 @@
 	</td>
    <td>
 	<a >
-  <img height="300" width="300"background="black">
+  <img height="200" width="200"background="black">
 	</a>
 	</td>
 
