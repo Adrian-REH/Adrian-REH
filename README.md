@@ -57,29 +57,29 @@
   <tr>
     <td>
 	<a href="https://github.com/Adrian-REH/DashSupplier">
-  		<img height="300" src="https://user-images.githubusercontent.com/64231248/190795138-c6ce3850-63ac-4377-8669-4d36ee9e6a8d.png">
+  		<img height="200" src="https://user-images.githubusercontent.com/64231248/190795138-c6ce3850-63ac-4377-8669-4d36ee9e6a8d.png">
 	</a>
 	</td>
     <td>
 	<a href="https://github.com/Adrian-REH/DashClient">
-  		<img height="300" src="https://user-images.githubusercontent.com/64231248/190797402-f978dd28-b049-45c0-b543-d1b823709aee.png">
+  		<img height="200" src="https://user-images.githubusercontent.com/64231248/190797402-f978dd28-b049-45c0-b543-d1b823709aee.png">
 	</a>
 	</td>
     <td>
 	<a href="https://play.google.com/store/apps/details?id=app.ibiocd.jsonencrypt">
-  		<img height="300" src="https://user-images.githubusercontent.com/64231248/190798108-2b05073a-0f6d-446b-89ec-7604aaee6587.png">
+  		<img height="200" src="https://user-images.githubusercontent.com/64231248/190798108-2b05073a-0f6d-446b-89ec-7604aaee6587.png">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
 	<a >
-  	<img height="300" width="300" src="https://user-images.githubusercontent.com/64231248/190809244-2b9c520a-ee59-490a-b931-cf613d0701ad.png">
+  	<img height="200" width="200" src="https://user-images.githubusercontent.com/64231248/190809244-2b9c520a-ee59-490a-b931-cf613d0701ad.png">
 	</a>
 	</td>
 	<td>
 	<a >
-  	<img height="300" width="300" src="https://user-images.githubusercontent.com/64231248/190809296-e5120742-6926-448c-a046-5e19f3b0e7d2.png">
+  	<img height="200" width="200" src="https://user-images.githubusercontent.com/64231248/190809296-e5120742-6926-448c-a046-5e19f3b0e7d2.png">
 	</a>
 	</td>
    <td>
