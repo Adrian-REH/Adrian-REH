@@ -1,7 +1,7 @@
 # Hola, me llamo Adrian Herrera 👋
 ### Soy estudiante de Ingenieria electrónica y Freelance junior
 
- Usualmente creo codigos por Hobby o por trabajos y los publico aqui, siempre y cuando no sean privados.
+ Usualmente creo codigos por Hobby o por trabajos y los publico aqui.
 ## Tecnologías:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
