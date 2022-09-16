@@ -94,4 +94,7 @@
 
 ## Contacto: 
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=EA4335)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ibiocd@gmail.com)
+[![Email](https://img.shields.io/badge/adrianherrera.r.e@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:adrianherrera.r.e@gmail.com)
+</br>
+[![Email](https://img.shields.io/badge/ibiocd@gmail.com-email_de_ibiocd-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ibiocd@gmail.com)
+</br>
