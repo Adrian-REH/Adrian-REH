@@ -87,25 +87,7 @@
   <img height="300" width="300"background="black">
 	</a>
 	</td>
-  </tr>
-    <tr>
-    <td>
-	<a >
-  <img height="300" width="300"background="black">
-	</a>
-	</td>
-	<td>
-	<a>
-  <img height="300" width="300"background="black">
-	</a>
-	</td>
 
-   <td>
-	<a >
-  		<img height="300" width="300"background="black">
-	</a>
-	</td>
-  </tr>
 </table>
 </table>
 
