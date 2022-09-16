@@ -3,17 +3,16 @@
 ## Tecnologías:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=3DDC84)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-AE57FA?style=flat-square&logo=kotlin&logoColor=white&labelColor=AE57FA)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
 </br>
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=101010)]()
-[![php](https://img.shields.io/badge/php-F7DF1E?style=flat-square&logo=php&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=F7DF1E)]()
+[![php](https://img.shields.io/badge/php-F7DF1E?style=flat-square&logo=php&logoColor=white&labelColor=F7DF1E)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white&labelColor=FFCA28)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=339933)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248)]()
 [![MySQL](https://img.shields.io/badge/MySQL-AE57FA?style=for-the-badge&logo=mysql&logoColor=white&labelColor=47A248)]()
 </br>
 
