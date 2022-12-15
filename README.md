@@ -1,7 +1,7 @@
 # Hola, me llamo Adrian Herrera 👋
 ### Soy estudiante de Ingenieria electrónica y Freelance junior
 
- Hace 2años que creo codigos por Hobby o por trabajos, los proyectos que veras son los ultimos que hice por Hobby.
+ Tengo 2 años de experiencia creando apps por hobby o por trabajos en distintos lenguajes, aunque me especializo mas creando App mobiles estudiando fuera de la carrera.
 ## Tecnologías:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
