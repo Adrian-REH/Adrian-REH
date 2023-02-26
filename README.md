@@ -21,7 +21,7 @@
 ### Appointment
 
  - **Para profesionales**:
- Es una **_APP_** para crear citas medicas para distintas especialidades, asi como todas las especialidades son diferentes appoiment las complementa creando funciones para cada una de ellas
+
 </br>
  <p align="center"> <img height="300" src="https://user-images.githubusercontent.com/64231248/190726526-88acbdf8-fef1-403e-936c-b170ee7002a5.png" link="https://play.google.com/store/apps/details?id=app.ibiocd.odontologia"> </p>
  
@@ -33,7 +33,7 @@
   
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141)](https://play.google.com/store/apps/details?id=app.ibiocd.odontologia) 
 
- - **Para pacientes**: Es una **_APP_** para crear citas medicas para distintas especialidades.
+ - **Para pacientes**: 
 
  <p align="center"><img height="300" src="https://user-images.githubusercontent.com/64231248/190727012-96f8767a-15b7-4320-b7a3-c90492fd3202.png"> </p>
  
