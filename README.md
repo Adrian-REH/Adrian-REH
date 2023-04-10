@@ -16,41 +16,6 @@
 [![C](https://img.shields.io/badge/c-279FDF?style=flat-square&logo=c&logoColor=white&labelColor=279FDF)]()
 </br>
 ## Proyectos: 
-### Appointment
-
- - **Para profesionales**:
-
-</br>
- <p align="center"> <img height="300" src="https://user-images.githubusercontent.com/64231248/190726526-88acbdf8-fef1-403e-936c-b170ee7002a5.png" link="https://play.google.com/store/apps/details?id=app.ibiocd.odontologia"> </p>
- 
- [![Kotlin](https://img.shields.io/badge/Kotlin-414141?style=flat-square&logo=kotlin&logoColor=white&labelColor=414141)]()
- [![Android_Studio](https://img.shields.io/badge/Android_Studio-414141?style=flat-square&logo=android-studio&logoColor=white&labelColor=414141)]()
- </br>
-  </br>
-  **Descarga**: 
-  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=414141)](https://play.google.com/store/apps/details?id=app.ibiocd.odontologia) 
-
- - **Para pacientes**: 
-
- <p align="center"><img height="300" src="https://user-images.githubusercontent.com/64231248/190727012-96f8767a-15b7-4320-b7a3-c90492fd3202.png"> </p>
- 
-  </br>
-  
-
-
- [![Kotlin](https://img.shields.io/badge/Kotlin-C7C7C7?style=flat-square&logo=kotlin&logoColor=black&labelColor=C7C7C7)]()
- [![Android_Studio](https://img.shields.io/badge/Android_Studio-C7C7C7?style=flat-square&logo=android-studio&logoColor=black&labelColor=C7C7C7)]()
- </br>
- 
-  **Descarga**: 
-  </br>
-  
-[![Google Play](https://img.shields.io/badge/Google_Play-C7C7C7?style=for-the-badge&logo=googleplay&logoColor=black&labelColor=C7C7C7)](https://play.google.com/store/apps/details?id=app.ibiocd.appointmentpatient) 
-
-</br>
-
-### Otros
 
 <table align="center" style="width:100%">
   <tr>
