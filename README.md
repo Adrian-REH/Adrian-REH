@@ -1,18 +1,23 @@
 
 
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black&labelColor=3DDC84)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-AE57FA?style=flat-square&logo=kotlin&logoColor=white&labelColor=AE57FA)]()
-[![Java](https://img.shields.io/badge/Java-AE57FA?style=flat-square&logo=java&logoColor=white&labelColor=AE57FA)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black&labelColor=3DDC84)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E)]()
-[![php](https://img.shields.io/badge/php-F7DF1E?style=flat-square&logo=php&logoColor=black&labelColor=F7DF1E)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=white&labelColor=AE57FA)]()
+[![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=white&labelColor=yellow)]()
+[![Spring](https://img.shields.io/badge/Spring-white?logo=spring&logoColor=white&labelColor=339933)]()
+[![flutter](https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=white&labelColor=279FDF)]()
+[![C](https://img.shields.io/badge/c-white?logo=c&logoColor=white&labelColor=279FDF)]()
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=FFCA28)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=black&labelColor=339933)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black&labelColor=47A248)]()
-[![MySQL](https://img.shields.io/badge/MySQL-279FDF?style=flat-square&logo=mysql&logoColor=white&labelColor=279FDF)]()
-[![C](https://img.shields.io/badge/c-279FDF?style=flat-square&logo=c&logoColor=white&labelColor=279FDF)]()
+[![Vue](https://img.shields.io/badge/Vue-white?logo=vuedotjs&logoColor=white&labelColor=4FC08D)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-white?logo=node.js&logoColor=white&labelColor=339933)]()
+</br>
+[![Android](https://img.shields.io/badge/Android-white?logo=android&logoColor=white&labelColor=3DDC84)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-white?logo=android-studio&logoColor=white&labelColor=3DDC84)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=white&labelColor=FFCA28)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=mongodb&logoColor=white&labelColor=47A248)]()
+[![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=white&labelColor=279FDF)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=white&labelColor=279FDF)]()
+
 </br>
 <p align="center">
 <a href="https://github.com/Adrian-REH"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact"/></a>
