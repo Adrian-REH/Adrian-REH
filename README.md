@@ -1,6 +1,8 @@
 
+<p align="center" >
 
 
+    
 [![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin&logoColor=white&labelColor=AE57FA)]()
 [![Java](https://img.shields.io/badge/Java-white?logo=java&logoColor=white&labelColor=yellow)]()
 [![Spring](https://img.shields.io/badge/Spring-white?logo=spring&logoColor=white&labelColor=339933)]()
@@ -18,7 +20,8 @@
 [![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=white&labelColor=279FDF)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=white&labelColor=279FDF)]()
 
-</br>
-<p align="center">
+
+
 <a href="https://github.com/Adrian-REH"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-REH&&layout=compact"/></a>
+
 </p>
