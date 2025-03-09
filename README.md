@@ -1,7 +1,7 @@
 
 <p align="center" >
 
-| Area | Lenguaje | Frameworks / Herramientas | Metodologie | Arquitecture |
+| Area | Lenguaje | Frameworks / Herramientas | Metodologías | Arquitecturas |
 |----------|----------|----------|----------|----------|
 | Back End    | Java, TypeScript, python | Spring Boot, Node.js, Express | TDD, DDD, BDD, CI/CD | Hexagonal, MVC, Clean Architecture, Microservicios |
 | Front End    | Kotlin, TypeScript | Flutter, React, Angular| Agile | MVVM, MVP, Arquitectura basada en Componentes|
