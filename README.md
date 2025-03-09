@@ -3,7 +3,7 @@
 
 | Area | Lenguaje | Frameworks / Herramientas | Metodologie | Arquitecture |
 |----------|----------|----------|----------|----------|
-| Back End    | Java, TypeScript | SpringBoot, Node | TDD, DDD | Hexagonal, MVC, Clean Architecture, Microservicios |
+| Back End    | Java, TypeScript, python | Spring Boot, Node.js, Express | TDD, DDD, BDD, CI/CD | Hexagonal, MVC, Clean Architecture, Microservicios |
 | Front End    | Kotlin, TypeScript | Flutter, React, Angular| Agile | MVVM, MVP, Arquitectura basada en Componentes|
 | DevOps    | C/C++, Bash, python |Docker, Kubernetes, GitHub Actions  | DevOps, GitOps, CI/CD | IaC (Infrastructure as Code), Serverless |
 | Git    | -   |GitHub, GitLab, GitFlow | Code Review, Branching Strategies | Monorepo, Polyrepo |
